@@ -6,10 +6,24 @@ are able to create unlimited projects.
 No nonsense. Just a sleek UI, with features enabling a great degree
 of customization to perfectly match your team's workflow.
 
+# Immediate Todos
+
+There's a lot to do, so I'm keeping a list here. As things are 
+completed, I'll be removing them from here. If others begin working 
+on this project, I'll move to using the issues tab. While it's just 
+me, using issues would be unnecessary friction.
+
+- Design database schema
+- PostgreSQL docker init script
+- Custom .env validation
+  - Base URL
+  - Connection info
+- Use DnDKit to create status (Lane) components for dragging stories
+- Use NextAuth to authenticate with GitHub, GitLab, and Google
+
 # Planned features
 
 Autobahn is a very early WIP. These are the planned features.
-
 
 ## Integrations
 
